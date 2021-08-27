@@ -1,0 +1,23 @@
+What is Data Cleaning ?
+
+Data Cleaning is the process of delecting incomplete,incorrect,inaccurate part of the Data and then replacing ,modifying or delecting 
+the dirty data.
+
+
+
+Data Cleaning is also called data Cleansing.
+
+
+Steps of Data Cleaning :
+-------------------------
+
+1) Import dataset .
+2) Merge dataset into one dataset .
+3) Identify errors .
+4) Standardize processes .
+5) Scrub for duplicates .
+6) Validate accuracy .
+
+Data Collection:
+------------------
+kaggle.com
